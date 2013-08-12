@@ -1,0 +1,7 @@
+myapp>run.bat
+2013/08/12 11:27:37 revel.go:123: Failed to load app.conf: not found
+
+myapp>myapp.exe
+ERROR 2013/08/12 11:29:21 revel.go:233: Failed to import  with error: import "":
+ invalid import path
+
